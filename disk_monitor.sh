@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# dummy comment
 # Configuration
 THRESHOLD=80                      # Disk usage threshold percentage
 LOG_FILE="/var/log/disk_usage.log" # Log file to store alerts
